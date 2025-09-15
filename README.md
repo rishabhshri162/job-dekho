@@ -29,7 +29,7 @@ A sleek and responsive **Job Board Landing Page** built with **HTML** and **Tail
 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/1sie5d4if/Screenshot%202025-09-15%20230826.png?updatedAt=1757957951085" width="1000"/>
+  <img src="https://ik.imagekit.io/1sie5d4if/jobdekhoooo.netlify.app_.png?updatedAt=1757958438729" width="1000"/>
 </p>
 
 ---
