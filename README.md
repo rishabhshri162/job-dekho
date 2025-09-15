@@ -3,7 +3,7 @@
 A sleek and responsive **Job Board Landing Page** built with **HTML** and **Tailwind CSS**. Designed to connect job seekers with employers through a clean, modern, and user-friendly interface.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jobdekhoooo.netlify.app/)  
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amdadislam01/job-board-connect)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhshri162/job-dekho.git)
 
 ---
 
@@ -29,7 +29,7 @@ A sleek and responsive **Job Board Landing Page** built with **HTML** and **Tail
 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/yqnbhdlo4/Img/Jobdekho?updatedAt=1755950382330" width="1000"/>
+  <img src="https://ik.imagekit.io/1sie5d4if/Screenshot%202025-09-15%20230826.png?updatedAt=1757957951085" width="1000"/>
 </p>
 
 ---
@@ -40,10 +40,10 @@ A sleek and responsive **Job Board Landing Page** built with **HTML** and **Tail
 
 ```bash
 # Clone the repository
-git clone https://github.com/amdadislam01/job-board-connect.git
+git clone https://github.com/rishabhshri162/job-dekho.git
 
 # Navigate into project folder
-cd job-board-connect
+cd job-dekho
 
 
 
