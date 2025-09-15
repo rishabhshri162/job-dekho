@@ -2,7 +2,7 @@
 
 A sleek and responsive **Job Board Landing Page** built with **HTML** and **Tailwind CSS**. Designed to connect job seekers with employers through a clean, modern, and user-friendly interface.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jobdekhoooo.netlify.app.netlify.app/)  
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jobdekhoooo.netlify.app/)  
 [![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amdadislam01/job-board-connect)
 
 ---
